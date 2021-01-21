@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 
 """
+Odd Gnome
 
+https://open.kattis.com/problems/oddgnome
 """
 import sys
 def inp():
